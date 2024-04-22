@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4dp"
+    android:elevation="8dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_width="160dp"
+    android:layout_height="wrap_content">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/itemsp_image"
+                android:src="@drawable/ic_media_24"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"/>
+            <TextView
+                android:id="@+id/itemsp_ten"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sách"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:gravity="center"/>
+            <TextView
+                android:id="@+id/itemsp_gia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Giá: 250000đ"
+                android:textColor="@android:color/holo_red_light"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:gravity="center"/>
+
+        </LinearLayout>
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="top|right"/>
+    </FrameLayout>
+
+</androidx.cardview.widget.CardView>
