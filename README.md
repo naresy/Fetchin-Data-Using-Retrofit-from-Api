@@ -56,7 +56,7 @@ public interface ApiService {
 </code></pre>
 
 <h2 id="contributing">Contributing</h2>
-<p>Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.</p>
+<p>Contributions are what make the open-source community such an amazing place to learn, inspire, and create. I would greatly appreciate any contributions you make.</p>
 <ol>
     <li>Fork the Project</li>
     <li>Create your Feature Branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
@@ -73,7 +73,8 @@ public interface ApiService {
 <h2 id="contact">Contact</h2>
 <p>
     Your Name - <a href="mailto:nareshupadhayay74@gmail.com">nareshupadhayay74@gmail.com</a> <br>
-    Project Link: <a href="https://github.com/naresy/retrofit-fetch-data">https://github.com/naresy/retrofit-fetch-data</a>
+    Project Link: <a href="https://github.com/naresy/retrofit-fetch-data">https://github.com/naresy/Fetchin-Data-Using-Retrofit-from-Api
+</a>
 </p>
 
 <h2 id="acknowledgements">Acknowledgements</h2>
