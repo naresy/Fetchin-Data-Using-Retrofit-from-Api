@@ -1,6 +1,4 @@
-<title>Fetching Data Using Retrofit from API</title>
-</head>
-<body>
+
 
 <h1>Fetching Data Using Retrofit from API</h1>
 
