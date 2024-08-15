@@ -73,7 +73,7 @@ public interface ApiService {
 <h2 id="contact">Contact</h2>
 <p>
     Your Name - <a href="mailto:nareshupadhayay74@gmail.com">nareshupadhayay74@gmail.com</a> <br>
-    Project Link: <a href="https://github.com/naresy/retrofit-fetch-data">https://github.com/naresy/Fetchin-Data-Using-Retrofit-from-Api
+    Data-Using-Retrofit-from-Api
 </a>
 </p>
 
