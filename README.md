@@ -37,7 +37,8 @@
 
 <h3>Installation</h3>
 <ol>
-    <li>Clone the repo: <code>git clone https://github.com/naresy/retrofit-fetch-data.git</code></li>
+    <li>Clone the repo: <code>git clone https://github.com/naresy/Fetchin-Data-Using-Retrofit-from-Api
+.git</code></li>
     <li>Open the project in Android Studio</li>
     <li>Sync the project with Gradle</li>
 </ol>
