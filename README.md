@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fetching Data Using Retrofit from API</title>
+
+<title>Fetching Data Using Retrofit from API</title>
 </head>
 <body>
 
@@ -44,7 +40,7 @@
 
 <h3>Installation</h3>
 <ol>
-    <li>Clone the repo: <code>git clone https://github.com/yourusername/retrofit-fetch-data.git</code></li>
+    <li>Clone the repo: <code>git clone https://github.com/naresy/retrofit-fetch-data.git</code></li>
     <li>Open the project in Android Studio</li>
     <li>Sync the project with Gradle</li>
 </ol>
@@ -63,7 +59,7 @@ public interface ApiService {
 </code></pre>
 
 <h2 id="contributing">Contributing</h2>
-<p>Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.</p>
+<p>Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.</p>
 <ol>
     <li>Fork the Project</li>
     <li>Create your Feature Branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
@@ -74,13 +70,13 @@ public interface ApiService {
 
 <h2 id="license">License</h2>
 <p>
-    Distributed under the MIT License. See <a href="LICENSE">LICENSE</a> for more information.
+    It is distributed under the MIT License. See <a href="LICENSE">LICENSE</a> for more information.
 </p>
 
 <h2 id="contact">Contact</h2>
 <p>
-    Your Name - <a href="mailto:your.email@example.com">your.email@example.com</a> <br>
-    Project Link: <a href="https://github.com/yourusername/retrofit-fetch-data">https://github.com/yourusername/retrofit-fetch-data</a>
+    Your Name - <a href="mailto:nareshupadhayay74@gmail.com">nareshupadhayay74@gmail.com</a> <br>
+    Project Link: <a href="https://github.com/naresy/retrofit-fetch-data">https://github.com/naresy/retrofit-fetch-data</a>
 </p>
 
 <h2 id="acknowledgements">Acknowledgements</h2>
