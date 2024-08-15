@@ -1,4 +1,3 @@
-
 <title>Fetching Data Using Retrofit from API</title>
 </head>
 <body>
